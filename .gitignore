@@ -1,0 +1,7 @@
+*__pycache__/
+*callgraph.svg
+*.log
+*.xml
+*sim_build/
+*.pstat
+
